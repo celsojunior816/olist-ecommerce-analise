@@ -2,6 +2,7 @@
 
 ## 📌 Visão Geral do Projeto
 Este projeto tem como objetivo diagnosticar o desempenho comercial, a eficiência logística e a estrutura da malha de vendedores do ecossistema de e-commerce brasileiro com base nos dados públicos da Olist (2016 a 2018).
+
 (Os dados brutos foram extraídos de arquivos CSV públicos da Olist (via Kaggle) e importados para tratamento e modelagem no Power BI.)
 
 Mais do que a construção de dashboards visuais, o foco deste trabalho foi responder a perguntas críticas de negócio:
